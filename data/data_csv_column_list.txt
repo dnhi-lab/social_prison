@@ -1,0 +1,73 @@
+01: ID
+02: SVO order (1 = A, 2 = B)
+03: SVO Q1
+04: SVO Q2
+05: SVO Q3
+06: SVO Q4
+07: SVO Q5
+08: SVO Q6
+09: SVO Q7
+10: SVO Q8
+11: SVO Q9
+12: SVO Q10
+13: SVO Q11
+14: SVO Q12
+15: SVO Q13
+16: SVO Q14
+17: SVO Q15
+18: DG self
+19: UG self
+20: UG offer 1 (1 = accept, 0 = reject)
+21: UG offer 1 fair (100 completely fair, 0 completely not fair)
+22: UG offer 2
+23: UG offer 2 fair
+24: UG offer 3
+25: UG offer 3 fair
+26: UG offer 4
+27: UG offer 4 fair
+28: UG offer 5
+29: UG offer 5 fair
+30: Hawk-Dove (1 = C, 0 = D)
+31: Hawk-Dove expectation (100 = definitely D, 0 = definitely C)
+32: Prisoner's Dilemma
+33: Prisoner's Dilemma expectation
+34: Stag-Hunt
+35: Stag-Hunt expectation
+36: No Conflict
+37: No Conflict expectation
+38: 8 Euro utility
+39: 24 Euro utility
+40: 40 Euro utility
+41: 56 Euro utility
+42: PCL-R Scores
+43: PCL item 1
+44: PCL item 2
+45: PCL item 3
+46: PCL item 4
+47: PCL item 5
+48: PCL item 6
+49: PCL item 7
+50: PCL item 8
+51: PCL item 9
+52: PCL item 10
+53: PCL item 11
+54: PCL item 12
+55: PCL item 13
+56: PCL item 14
+57: PCL item 15
+58: PCL item 16
+59: PCL item 17
+60: PCL item 18
+61: PCL item 19
+62: PCL item 20
+63: PCL score uncorrected
+64: PCL factor 1 uncorrected
+65: PCL factor 2 uncorrected
+66: PCL score missing
+67: PCL factor 1 missing
+68: PCL factor 2 missing
+69: PCL score adjusted
+70: PCL factor 1 adjusted
+71: PCL factor 2 adjusted
+72: PCL Category
+73: Age
